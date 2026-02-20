@@ -1,0 +1,24 @@
+{
+  "name": "my-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabbypraiz088/Js.Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gabbypraiz088/Js.Assignment/issues"
+  },
+  "homepage": "https://github.com/Gabbypraiz088/Js.Assignment#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
